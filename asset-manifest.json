@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crudtesting/static/css/main.e6c13ad2.css",
+    "main.js": "/crudtesting/static/js/main.91b0e029.js",
+    "static/js/787.f055211e.chunk.js": "/crudtesting/static/js/787.f055211e.chunk.js",
+    "index.html": "/crudtesting/index.html",
+    "main.e6c13ad2.css.map": "/crudtesting/static/css/main.e6c13ad2.css.map",
+    "main.91b0e029.js.map": "/crudtesting/static/js/main.91b0e029.js.map",
+    "787.f055211e.chunk.js.map": "/crudtesting/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.91b0e029.js"
+  ]
+}
